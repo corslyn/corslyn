@@ -1,8 +1,4 @@
 ```toml
-[profile]
-name = "corslyn"
-bio = "One language to rule them all"
-
 [skills]
 languages = ["rust", "java", "php", "bash", "LaTeX", "javascript", "html", "css", "json", "toml"]
 tools = ["git", "docker", "cargo", "mysql"]
