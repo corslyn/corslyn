@@ -4,6 +4,7 @@ languages = ["rust", "java", "php", "bash", "LaTeX", "javascript", "html", "css"
 tools = ["git", "docker", "cargo", "mysql"]
 
 [connect]
+forgejo = "https://git.corslyn.fr"
 root-me = "https://www.root-me.org/corslyn"
 github = "https://github.com/corslyn"
 linkedin = "https://www.linkedin.com/in/enzomanzinali"
